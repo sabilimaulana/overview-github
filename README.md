@@ -4,7 +4,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sabilimaulana&theme=dracula&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="sabilimaulana" />
+      <img  width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sabilimaulana&theme=dracula&currStreakNum=fe8dab&currStreakLabel=fe8dab&hide_border=true" alt="sabilimaulana" />
     </a>
   </div>
   <div align=center>
